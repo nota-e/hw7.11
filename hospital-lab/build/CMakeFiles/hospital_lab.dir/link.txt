@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/hospital_lab.dir/link.d CMakeFiles/hospital_lab.dir/main.cpp.o -o hospital_lab

@@ -1,0 +1,3 @@
+/home/e/Documents/repo/cko/hospital-lab/build/CMakeFiles/hospital_lab.dir
+/home/e/Documents/repo/cko/hospital-lab/build/CMakeFiles/edit_cache.dir
+/home/e/Documents/repo/cko/hospital-lab/build/CMakeFiles/rebuild_cache.dir
